@@ -28,7 +28,7 @@
     "whatwg-url": "^14.0.0"
   },
   "optionalDependencies": {
-    "@socketsupply/latica": "^0.1.0"
+    "@ojes94/latica": "^0.1.0"
   },
   "standard": {
     "ignore": [
@@ -39,11 +39,11 @@
       "/api/url/url/url.js",
       "/api/fetch/fetch.js",
       "/api/internal/streams/web.js",
-      "/npm/packages/@socketsupply/socket-node/index.cjs"
+      "/npm/packages/@ojes94/socket-node/index.cjs"
     ]
   },
   "workspaces": [
-    "npm/packages/@socketsupply/socket-node"
+    "npm/packages/@ojes94/socket-node"
   ],
   "version": "0.0.0"
 }

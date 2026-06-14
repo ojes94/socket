@@ -17,6 +17,6 @@ You can find the full documentation in the [API.md](./API.md) file.
 
 Check out the [this][1] repo for some examples about how to use it.
 
-[0]:https://socketsupply.co/
-[1]:https://github.com/socketsupply/socket-examples
+[0]:https://ojes94.co/
+[1]:https://github.com/ojes94/socket-examples
 

@@ -1,5 +1,5 @@
 {
-  "name": "@socketsupply/socket",
+  "name": "@ojes94/socket",
   "version": "0.6.0-rc.8",
   "description": "A Cross-Platform, Native Runtime for Desktop and Mobile Apps — Create apps using HTML, CSS, and JavaScript. Written from the ground up to be small and maintainable.",
   "type": "module",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/socketsupply/socket.git"
+    "url": "git+ssh://git@github.com/ojes94/socket.git"
   },
   "keywords": [
     "socket",
@@ -32,17 +32,17 @@
     "desktop",
     "mobile"
   ],
-  "author": "Socket Supply, Co <info@socketsupply.co>",
+  "author": "Socket Supply, Co <info@ojes94.co>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/socketsupply/socket/issues"
+    "url": "https://github.com/ojes94/socket/issues"
   },
-  "homepage": "https://github.com/socketsupply/socket#readme",
+  "homepage": "https://github.com/ojes94/socket#readme",
   "optionalDependencies": {
-    "@socketsupply/socket-darwin-arm64": "0.6.0-rc.8",
-    "@socketsupply/socket-darwin-x64": "0.6.0-rc.8",
-    "@socketsupply/socket-linux-arm64": "0.6.0-rc.8",
-    "@socketsupply/socket-linux-x64": "0.6.0-rc.8",
-    "@socketsupply/socket-win32-x64": "0.6.0-rc.8"
+    "@ojes94/socket-darwin-arm64": "0.6.0-rc.8",
+    "@ojes94/socket-darwin-x64": "0.6.0-rc.8",
+    "@ojes94/socket-linux-arm64": "0.6.0-rc.8",
+    "@ojes94/socket-linux-x64": "0.6.0-rc.8",
+    "@ojes94/socket-win32-x64": "0.6.0-rc.8"
   }
 }

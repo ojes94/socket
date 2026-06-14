@@ -1,5 +1,5 @@
 {
-  "name": "@socketsupply/socket-node",
+  "name": "@ojes94/socket-node",
   "version": "0.6.0-rc.8",
   "description": "A Node.js adapter for the Socket runtime",
   "main": "index.js",
@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/socketsupply/socket.git"
+    "url": "git+https://github.com/ojes94/socket.git"
   },
-  "author": "Socket Supply, Co <info@socketsupply.co>",
+  "author": "Socket Supply, Co <info@ojes94.co>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/socketsupply/socket/issues"
+    "url": "https://github.com/ojes94/socket/issues"
   },
-  "homepage": "https://github.com/socketsupply/socket#readme",
+  "homepage": "https://github.com/ojes94/socket#readme",
   "devDependencies": {
     "@types/node": "20.7.0",
     "esbuild": "0.19.3",

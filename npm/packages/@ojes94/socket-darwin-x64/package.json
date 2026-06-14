@@ -1,22 +1,22 @@
 {
-  "name": "@socketsupply/socket-linux-arm64",
+  "name": "@ojes94/socket-darwin-x64",
   "version": "0.6.0-rc.8",
   "description": "A Cross-Platform, Native Runtime for Desktop and Mobile Apps — Create apps using HTML, CSS, and JavaScript. Written from the ground up to be small and maintainable.",
   "type": "module",
   "main": "src/index.js",
   "os": [
-    "linux"
+    "darwin"
   ],
   "cpu": [
-    "arm64"
+    "x64"
   ],
   "scripts": {
     "test": ":",
-    "install": "bin/verify-platform.js linux arm64"
+    "install": "bin/verify-platform.js darwin x64"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/socketsupply/socket.git"
+    "url": "git+ssh://git@github.com/ojes94/socket.git"
   },
   "keywords": [
     "socket",
@@ -25,13 +25,13 @@
     "javascript",
     "desktop",
     "mobile",
-    "linux",
+    "darwin",
     "arm64"
   ],
-  "author": "Socket Supply, Co <info@socketsupply.co>",
+  "author": "Socket Supply, Co <info@ojes94.co>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/socketsupply/socket/issues"
+    "url": "https://github.com/ojes94/socket/issues"
   },
-  "homepage": "https://github.com/socketsupply/socket#readme"
+  "homepage": "https://github.com/ojes94/socket#readme"
 }
