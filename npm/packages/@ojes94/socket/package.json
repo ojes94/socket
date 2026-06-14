@@ -1,6 +1,6 @@
 {
   "name": "@ojes94/socket",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A Cross-Platform, Native Runtime for Desktop and Mobile Apps — Create apps using HTML, CSS, and JavaScript. Written from the ground up to be small and maintainable.",
   "type": "module",
   "main": "./index.js",
@@ -38,11 +38,11 @@
     "url": "https://github.com/ojes94/socket/issues"
   },
   "homepage": "https://github.com/ojes94/socket#readme",
-"optionalDependencies": {
-  "@ojes94/socket-darwin-arm64": "1.0.0",
-  "@ojes94/socket-darwin-x64": "1.0.0",
-  "@ojes94/socket-linux-arm64": "1.0.0",
-  "@ojes94/socket-linux-x64": "1.0.0",
-  "@ojes94/socket-win32-x64": "1.0.1"
-}
+  "optionalDependencies": {
+    "@ojes94/socket-darwin-arm64": "1.0.0",
+    "@ojes94/socket-darwin-x64": "1.0.0",
+    "@ojes94/socket-linux-arm64": "1.0.0",
+    "@ojes94/socket-linux-x64": "1.0.0",
+    "@ojes94/socket-win32-x64": "1.0.1"
+  }
 }
