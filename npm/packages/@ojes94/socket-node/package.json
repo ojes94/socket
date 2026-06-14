@@ -1,6 +1,6 @@
 {
   "name": "@ojes94/socket-node",
-  "version": "0.6.0-rc.8",
+  "version": "1.0.0",
   "description": "A Node.js adapter for the Socket runtime",
   "main": "index.js",
   "exports": {
@@ -16,9 +16,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ojes94/socket.git"
+    "url": "https://github.com/ojes94/socket.git"
   },
-  "author": "Socket Supply, Co <info@ojes94.co>",
+  "author": "Ojes Technologies",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/ojes94/socket/issues"
