@@ -1,12 +1,12 @@
 {
   "name": "@ojes94/socket",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Cross-Platform, Native Runtime for Desktop and Mobile Apps — Create apps using HTML, CSS, and JavaScript. Written from the ground up to be small and maintainable.",
   "type": "module",
   "main": "./index.js",
   "types": "./index.d.ts",
   "bin": {
-    "ssc": "./bin/ssc.mjs"
+    "ssc": "bin/ssc.mjs"
   },
   "os": [
     "linux",
