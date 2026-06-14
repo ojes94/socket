@@ -1,6 +1,6 @@
 {
   "name": "@ojes94/socket",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "A Cross-Platform, Native Runtime for Desktop and Mobile Apps — Create apps using HTML, CSS, and JavaScript. Written from the ground up to be small and maintainable.",
   "type": "module",
   "main": "./index.js",
@@ -43,6 +43,6 @@
     "@ojes94/socket-darwin-x64": "1.0.0",
     "@ojes94/socket-linux-arm64": "1.0.0",
     "@ojes94/socket-linux-x64": "1.0.0",
-    "@ojes94/socket-win32-x64": "1.0.1"
+    "@ojes94/socket-win32-x64": "1.0.2"
   }
 }
