@@ -1,6 +1,6 @@
 {
   "name": "@ojes94/socket-win32-x64",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Cross-Platform, Native Runtime for Desktop and Mobile Apps — Create apps using HTML, CSS, and JavaScript. Written from the ground up to be small and maintainable.",
   "type": "module",
   "main": "src/index.js",

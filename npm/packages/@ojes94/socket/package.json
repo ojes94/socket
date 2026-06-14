@@ -38,11 +38,11 @@
     "url": "https://github.com/ojes94/socket/issues"
   },
   "homepage": "https://github.com/ojes94/socket#readme",
-  "optionalDependencies": {
-    "@ojes94/socket-darwin-arm64": "1.0.0",
-    "@ojes94/socket-darwin-x64": "1.0.0",
-    "@ojes94/socket-linux-arm64": "1.0.0",
-    "@ojes94/socket-linux-x64": "1.0.0",
-    "@ojes94/socket-win32-x64": "1.0.0"
-  }
+"optionalDependencies": {
+  "@ojes94/socket-darwin-arm64": "1.0.0",
+  "@ojes94/socket-darwin-x64": "1.0.0",
+  "@ojes94/socket-linux-arm64": "1.0.0",
+  "@ojes94/socket-linux-x64": "1.0.0",
+  "@ojes94/socket-win32-x64": "1.0.1"
+}
 }
