@@ -15,7 +15,7 @@
     "update-network-protocol": "./bin/update-network-protocol.sh",
     "relink": "./bin/publish-npm-modules.sh --link"
   },
-  "private": true,
+  "private": false,
   "devDependencies": {
     "@virtualstate/navigation": "^1.0.1-alpha.206",
     "acorn": "8.12.0",
