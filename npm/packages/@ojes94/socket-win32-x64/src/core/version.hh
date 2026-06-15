@@ -1,0 +1,13 @@
+#ifndef SOCKET_RUNTIME_CORE_VERSION_H
+#define SOCKET_RUNTIME_CORE_VERSION_H
+
+#include "../platform/string.hh"
+#include "config.hh"
+
+namespace SSC {
+  inline const auto VERSION_FULL_STRING = String(CONVERT_TO_STRING(SOCKET_RUNTIME_VERSION) " (" CONVERT_TO_STRING(SOCKET_RUNTIME_VERSION_HASH) ")");
+  inline const auto VERSION_HASH_STRING = String(CONVERT_TO_STRING(SOCKET_RUNTIME_VERSION_HASH));
+  inline const auto VERSION_STRING = String(CONVERT_TO_STRING(SOCKET_RUNTIME_VERSION));
+}
+
+#endif
